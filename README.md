@@ -1,6 +1,6 @@
 # Speech
 
-<img src="Speaking.jpg" alt="Speech" width="400">
+<img src="Speaking.jpg" alt="Speech" width="300">
 
 
 Generate speech from a local Piper voice with `uv`:
